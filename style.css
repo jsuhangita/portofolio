@@ -1,0 +1,61 @@
+#navbar {
+	padding-top: 0vw ;	
+	border: none;
+	box-shadow: none;
+}
+.ui .menu{
+	font-size: 1em;
+}
+#jumbotron{
+	margin-top: 5vw;
+	background-color: #f2f6fc;
+	margin-bottom: 2vw;
+	opacity: 0;
+	height: 100%;
+}
+#jumbotron-text{
+	padding-top: 4vw;
+	font-size: 3em;
+	margin-bottom: 4vw;
+	padding-right: : 3vw;
+}
+.image-responsive{
+	width: 100%;
+	height: 100%;
+
+}
+
+
+#view-portofolio{
+	font-size: 1em;
+}
+h1{
+	font-size:2em !important;
+	 opacity: 0;
+}
+.sub-judul{
+	font-size: 1.4em !important;
+	display: none;
+}
+.image-service{
+	padding-top: 5vw;
+	padding-bottom: 5vw;
+	background-color: white;
+	padding-left: 1vw;
+	padding-right: 1vw;
+}
+.java-image{
+	padding-left: 120px;
+	padding-right: 60px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	height: 220px !important;
+	width: 300px !important;
+}
+.image{
+	background-color: white !important;
+}
+#service{
+	display: none;
+}
+
